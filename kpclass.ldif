@@ -1,3 +1,14 @@
+dn: cn=Farhan, dc=kpacademy,dc=local
+ou: kpclass
+cn: Farhan Sajid
+sn: Farhan Sajid
+mobile: 9174003014
+mail: farhansajid7861@gmail.com
+roomNumber: 501
+givenName: Farhan Sajid
+objectClass: inetOrgPerson
+
+
 dn: cn=Alan, dc=kpacademy,dc=local
 ou: kpclass
 cn: Alan Liang
