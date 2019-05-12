@@ -1,0 +1,23 @@
+dn: cn=Alan, dc=kpacademy,dc=local
+ou: kpclass
+cn: Alan Liang
+sn: Alan Liang
+mobile: 9172914289
+mail: AlanL@gmail.com
+roomNumber: 501
+givenName: Alan Liang
+objectClass: inetOrgPerson
+
+dn: cn=Faizan, dc=kpacademy,dc=local
+sn: Faizan Sattar
+cn: Faizan Sattar
+ou: kpclass
+roomNumber: 501
+objectClass: inetOrgPerson
+
+dn: cn=Zain, dc=kpacademy,dc=local
+cn: Zain Haq
+sn: Zain Haq
+ou: kpclass
+roomNumber: 501
+objectClass: inetOrgPerson
