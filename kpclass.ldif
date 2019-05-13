@@ -1,6 +1,10 @@
 dn: cn=Farhan, dc=kpacademy,dc=local
+<<<<<<< HEAD
 ou: student
 o: KpAcademy
+=======
+ou: kpclass
+>>>>>>> bb0d6b37c5cccdc06dc048b7db9cff7adf944423
 cn: Farhan Sajid
 sn: Farhan Sajid
 mobile: 9174003014
@@ -11,8 +15,12 @@ objectClass: inetOrgPerson
 
 
 dn: cn=Alan, dc=kpacademy,dc=local
+<<<<<<< HEAD
 o: KpAcademy
 ou: student
+=======
+ou: kpclass
+>>>>>>> bb0d6b37c5cccdc06dc048b7db9cff7adf944423
 cn: Alan Liang
 sn: Alan Liang
 mobile: 9172914289
@@ -23,16 +31,26 @@ objectClass: inetOrgPerson
 
 dn: cn=Faizan, dc=kpacademy,dc=local
 sn: Faizan Sattar
+<<<<<<< HEAD
 o: KpAcademy
 cn: Faizan Sattar
 ou: Admins
+=======
+cn: Faizan Sattar
+ou: kpclass
+>>>>>>> bb0d6b37c5cccdc06dc048b7db9cff7adf944423
 roomNumber: 501
 objectClass: inetOrgPerson
 
 dn: cn=Zain, dc=kpacademy,dc=local
 cn: Zain Haq
+<<<<<<< HEAD
 o: KpAcademy
 sn: Zain Haq
 ou: Admins
+=======
+sn: Zain Haq
+ou: kpclass
+>>>>>>> bb0d6b37c5cccdc06dc048b7db9cff7adf944423
 roomNumber: 501
 objectClass: inetOrgPerson
