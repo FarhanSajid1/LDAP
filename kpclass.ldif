@@ -28,7 +28,6 @@ sn: Faizan Sattar
 o: KpAcademy
 cn: Faizan Sattar
 ou: Admins
-cn: Faizan Sattar
 ou: kpclass
 roomNumber: 501
 objectClass: inetOrgPerson
@@ -38,7 +37,6 @@ cn: Zain Haq
 o: KpAcademy
 sn: Zain Haq
 ou: Admins
-sn: Zain Haq
 ou: kpclass
 roomNumber: 501
 objectClass: inetOrgPerson
