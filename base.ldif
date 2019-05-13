@@ -1,0 +1,17 @@
+dn: dc=kpacademy,dc=local
+dc: kpacademy
+objectClass: top
+objectClass: domain
+
+dn: cn=ldapadm ,dc=kpacademy,dc=local
+objectClass: organizationalRole
+cn: ldapadm
+description: LDAP Manager
+
+dn: ou=People,dc=kpacademy,dc=local
+objectClass: organizationalUnit
+ou: People
+
+dn: ou=Group,dc=kpacademy,dc=local
+objectClass: organizationalUnit
+ou: Group

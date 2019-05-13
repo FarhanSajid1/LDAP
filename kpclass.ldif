@@ -1,0 +1,38 @@
+dn: cn=Farhan, dc=kpacademy,dc=local
+ou: student
+o: KpAcademy
+cn: Farhan Sajid
+sn: Farhan Sajid
+mobile: 9174003014
+mail: farhansajid7861@gmail.com
+roomNumber: 501
+givenName: Farhan Sajid
+objectClass: inetOrgPerson
+
+
+dn: cn=Alan, dc=kpacademy,dc=local
+o: KpAcademy
+ou: student
+cn: Alan Liang
+sn: Alan Liang
+mobile: 9172914289
+mail: AlanL@gmail.com
+roomNumber: 501
+givenName: Alan Liang
+objectClass: inetOrgPerson
+
+dn: cn=Faizan, dc=kpacademy,dc=local
+sn: Faizan Sattar
+o: KpAcademy
+cn: Faizan Sattar
+ou: Admins
+roomNumber: 501
+objectClass: inetOrgPerson
+
+dn: cn=Zain, dc=kpacademy,dc=local
+cn: Zain Haq
+o: KpAcademy
+sn: Zain Haq
+ou: Admins
+roomNumber: 501
+objectClass: inetOrgPerson

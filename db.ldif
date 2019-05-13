@@ -1,0 +1,14 @@
+dn: olcDatabase={2}bdb,cn=config
+changetype: modify
+replace: olcSuffix
+olcSuffix: dc=kpacademy,dc=local
+
+dn: olcDatabase={2}bdb,cn=config
+changetype: modify
+replace: olcRootDN
+olcRootDN: cn=ldapadm,dc=kpacademy,dc=local
+
+dn: olcDatabase={2}bdb,cn=config
+changetype: modify
+replace: olcRootPW
+olcRootPW: {SSHA}4wP1YBN0befUn+sro3LHB7XSTUfKv3hh
